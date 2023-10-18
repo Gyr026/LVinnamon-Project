@@ -1,4 +1,4 @@
-let width = 1920;
+let width = 1536;
 let tempWidth = 0;
 
 window.onload = function(){
